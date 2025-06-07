@@ -1,0 +1,1 @@
+Com base nos dados recebidos, pode gerar uma tabela com os produtos que são mais populares em cada país?
